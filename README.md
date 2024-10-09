@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+ông sửa các file login (container - > auth), và file HomeHeader thành hook nhá 
+
+cách chay code ở dưới nhá, không có data lên giao diện không có gì đâu 
+
+
 ## Available Scripts
 
 In the project directory, you can run:
